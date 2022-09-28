@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Football Score count</string>
+    <string name="team_A">Team A</string>
+    <string name="team_B">Team B</string>
+    <string name="score">0</string>
+    <string name="point_3">+3 Points</string>
+    <string name="point_2">+2 Points</string>
+    <string name="free_throw">Free throw</string>
+    <string name="reset">Reset</string>
+</resources>
